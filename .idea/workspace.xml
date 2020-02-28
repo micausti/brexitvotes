@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0647c128-9b72-46e6-8973-f94700795284" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XA0Q4iqGOiAM7Idrgkbkx46usu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala/brexitvotes" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/brexitvotes" />
+    </key>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="brexit-votes" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/Users/michaust/repos/brexit-votes/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="brexit-votes-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4741420580457" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3826292738" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3666975207" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="86493699" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/set" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../ScalaBridge/scalabridge-starter-project" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assetmanagement-e2e" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assetmanagement-ingestgatekeeper" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../assetmanagement-wiptransferservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../contentdelivery-contentsourcing" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../contentdelivery-dpamanager" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../contentdelivery-fileassetdelivery" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../contentdelivery-mediaverification" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../contentdelivery-s3manager" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../contentdelivery-shift" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../creative-scala-template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dalet-timecode-workorder-generator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dpamanager" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../expired-assets-purger" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../glacier-restores" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../personal/foundation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../technicalmetadataservice" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0647c128-9b72-46e6-8973-f94700795284" name="Default Changelist" comment="" />
+      <created>1580473571727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580473571727</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1780" y="100" width="1720" height="880" key="DiffContextDialog" timestamp="1582906873558">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1780" y="100" width="1720" height="880" key="DiffContextDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1582906873558" />
+    <state x="1973" y="509" width="1720" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1582907519112">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1973" y="509" width="1720" height="880" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1582907519112" />
+    <state x="1731" y="108" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582908123854">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1731" y="108" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1582908123854" />
+    <state x="1770" y="425" width="1720" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1680.23.1920.1057/0.23.1680.947@1680.23.1920.1057" timestamp="1582907918919" />
+    <state x="2737" y="165" width="763" height="543" key="find.popup" timestamp="1582908698186">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2737" y="165" width="763" height="543" key="find.popup/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1582908698186" />
+    <state x="506" y="258" width="667" height="476" key="find.popup/1680.23.1920.1057/0.23.1680.947@0.23.1680.947" timestamp="1580486954116" />
+  </component>
+</project>
